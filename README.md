@@ -1,8 +1,7 @@
 ### Olá mundo, Me chamo Alexandre. 👋
 
--Atualmente estou cursando a 1ª fase do curso Ciência da computação no Instituto Federal de Santa Catarina!
-</div>
--Resido na cidade de Lages-SC
+##-Atualmente estou cursando a 1ª fase do curso Ciência da computação no Instituto Federal de Santa Catarina!
+#-Resido na cidade de Lages-SC
 
 ## Contatos:
 
